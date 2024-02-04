@@ -16,7 +16,7 @@ export default function OverView() {
                      <div className="overview-card w-full p-5 cursor-pointer rounded-[5px]">
                         <div className='cat flex content-center justify-between mb-4'>
                            <p className='  text-color text-sm font-bold opacity-70'>{dat.type}</p>
-                           <img className="logo" src={`/images/icon-${dat.network_type === 'facebook' ? 'facebook' :
+                           <img className="logo" src={`images/icon-${dat.network_type === 'facebook' ? 'facebook' :
                               dat.network_type === 'instagram' ? 'instagram' :
                                  dat.network_type === 'twitter' ? 'twitter' :
                                     'youtube'
@@ -26,7 +26,7 @@ export default function OverView() {
                         <div  className='flex content-center justify-between'>
                            <p className=' text-color text-2xl font-bold'>{dat.count}</p>
                            <div className={` ${dat.per_stats}-rate flex mt-2  `}>
-                              <img className="icon mt-2 " src={`/images/icon-${dat.per_stats === 'up' ? 'up' : 'down'
+                              <img className="icon mt-2 " src={`images/icon-${dat.per_stats === 'up' ? 'up' : 'down'
                                  }.svg`} alt="" />
                               <p className='ml-1'>{`${dat.percentage}%`}</p>
                            </div>

@@ -20,13 +20,13 @@ export default function Dashboard() {
                <div className="card flex  gap-9  content-center justify-center ">
                   <div className="card-item cursor-pointer fb-card w-60 ">
                      <div className="flex flex-row content-center justify-center mt-6 gap-2">
-                        <img className="logo" src="/images/icon-facebook.svg" alt="facebook" />
+                        <img className="logo" src="images/icon-facebook.svg" alt="facebook" />
                         <p class="tag_name text-color">@nathanf</p>
                      </div>
                      <p class="count mt-4">1987</p>
                      <p class="type">FOLLOWERS</p>
                      <div className="up-rate flex gap-1 content-center justify-center mt-3 mb-4 ">
-                        <img className="icon mt-2 " src="/images/icon-up.svg" alt="up" />
+                        <img className="icon mt-2 " src="images/icon-up.svg" alt="up" />
                         <p>12 Today</p>
                      </div>
                   </div>
@@ -38,7 +38,7 @@ export default function Dashboard() {
                      <p class="count mt-4"> 1044</p>
                      <p class="type">FOLLOWERS</p>
                      <div className=" up-rate flex gap-1 content-center justify-center mt-3 mb-4" >
-                        <img className="icon mt-2" src="/images/icon-up.svg" alt="up" />
+                        <img className="icon mt-2" src="images/icon-up.svg" alt="up" />
                         <p>99 Today</p>
                      </div>
                   </div>
@@ -50,7 +50,7 @@ export default function Dashboard() {
                      <p class="count mt-4">11k</p>
                      <p class="type">FOLLOWERS</p>
                      <div className="up-rate flex gap-1 content-center justify-center mt-3 mb-4">
-                        <img className="icon mt-2" src="/images/icon-up.svg" alt="up" />
+                        <img className="icon mt-2" src="images/icon-up.svg" alt="up" />
                         <p>1099 Today</p>
                      </div>
                   </div>
@@ -62,7 +62,7 @@ export default function Dashboard() {
                      <p class="count mt-4">8239</p>
                      <p class="type">SUBSCRIBERS</p>
                      <div className="down-rate flex gap-1 content-center justify-center mt-3 mb-4">
-                        <img className="icon" src="/images/icon-down.svg" alt="down" />
+                        <img className="icon" src="images/icon-down.svg" alt="down" />
                         <p>144 Today</p>
                      </div>
                   </div>
