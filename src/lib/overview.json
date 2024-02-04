@@ -1,0 +1,58 @@
+[
+    {
+        "type":"Page Views",
+        "network_type":"facebook",
+        "count":"87",
+        "percentage":"3",
+        "per_stats":"up"
+    },
+    {
+        "type":"Likes",
+        "network_type":"facebook",
+        "count":"52",
+        "percentage":"2",
+        "per_stats":"down"
+    },
+    {
+        "type":"Likes",
+        "network_type":"instagram",
+        "count":"5462",
+        "percentage":"2257",
+        "per_stats":"up"
+    },
+    {
+        "type":"Profile Views",
+        "network_type":"instagram",
+        "count":"52k",
+        "percentage":"1375",
+        "per_stats":"up"
+    },
+    {
+        "type":"Retweets",
+        "network_type":"twitter",
+        "count":"117",
+        "percentage":"303",
+        "per_stats":"up"
+    },
+    {
+        "type":"Likes",
+        "network_type":"twitter",
+        "count":"507",
+        "percentage":"553",
+        "per_stats":"up"
+    },
+    {
+        "type":"Likes",
+        "network_type":"youtube",
+        "count":"107",
+        "percentage":"19",
+        "per_stats":"down"
+    },
+    {
+        "type":"Total Views",
+        "network_type":"youtube",
+        "count":"1407",
+        "percentage":"12",
+        "per_stats":"down"
+    }
+]
